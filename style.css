@@ -86,38 +86,42 @@ h2 {
 /* style.css - CÓDIGO DE POSICIONAMENTO PARA MESAS 01 a 39 */
 
 /* MESAS */
-#mesa-01 { top: 314px; left: 130px; }
-#mesa-02 { top: 314px; left: 174px; }
-#mesa-03 { top: 314px; left: 221px; }
-#mesa-04 { top: 314px; left: 266px; }
-#mesa-05 { top: 314px; left: 312px; }
-#mesa-06 { top: 264px; left: 312px; }
-#mesa-07 { top: 264px; left: 266px; }
-#mesa-08 { top: 264px; left: 221px; }
-#mesa-09 { top: 264px; left: 174px; }
-#mesa-10 { top: 264px; left: 130px; }
-#mesa-11 { top: 214px; left: 130px; }
-#mesa-12 { top: 214px; left: 174px; }
-#mesa-13 { top: 214px; left: 221px; }
-#mesa-14 { top: 214px; left: 266px; }
-#mesa-15 { top: 214px; left: 312px; }
-#mesa-16 { top: 164px; left: 312px; }
-#mesa-17 { top: 164px; left: 266px; }
-#mesa-18 { top: 164px; left: 221px; }
-#mesa-19 { top: 164px; left: 174px; }
-#mesa-20 { top: 164px; left: 130px; }
-#mesa-21 { top: 114px; left: 130px; }
-#mesa-22 { top: 114px; left: 174px; }
-#mesa-23 { top: 114px; left: 221px; }
-#mesa-24 { top: 114px; left: 266px; }
-#mesa-25 { top: 114px; left: 312px; }
-#mesa-26 { top: 64px; left: 302px; }
-#mesa-27 { top: 64px; left: 256px; }
-#mesa-28 { top: 64px; left: 211px; }
-#mesa-29 { top: 64px; left: 163px; }
-#mesa-30 { top: 64px; left: 118px; }
-#mesa-31 { top: 98px; left: 78px; }
-#mesa-32 { top: 59px; left: 58px; }
+#mesa-01 { top: 317px; left: 168px; } 
+#mesa-02 { top: 317px; left: 204px; } 
+#mesa-03 { top: 317px; left: 240px; } 
+#mesa-04 { top: 317px; left: 275px; } 
+#mesa-05 { top: 317px; left: 312px; } 
+#mesa-06 { top: 267px; left: 312px; } 
+#mesa-07 { top: 267px; left: 275px; } 
+#mesa-08 { top: 267px; left: 240px; } 
+#mesa-09 { top: 267px; left: 204px; } 
+#mesa-10 { top: 267px; left: 168px; } 
+#mesa-11 { top: 217px; left: 168px; } 
+#mesa-12 { top: 217px; left: 204px; } 
+#mesa-13 { top: 217px; left: 240px; } 
+#mesa-14 { top: 217px; left: 275px; } 
+#mesa-15 { top: 217px; left: 312px; } 
+#mesa-16 { top: 167px; left: 312px; } 
+#mesa-17 { top: 167px; left: 275px; } 
+#mesa-18 { top: 167px; left: 240px; } 
+#mesa-19 { top: 167px; left: 204px; } 
+#mesa-20 { top: 167px; left: 168px; } 
+#mesa-21 { top: 117px; left: 168px; } 
+#mesa-22 { top: 117px; left: 204px; } 
+#mesa-23 { top: 117px; left: 240px; } 
+#mesa-24 { top: 117px; left: 275px; } 
+#mesa-25 { top: 117px; left: 312px; } 
+#mesa-26 { top: 65px; left: 302px; } 
+#mesa-27 { top: 65px; left: 261px; } 
+#mesa-28 { top: 65px; left: 220px; } 
+#mesa-29 { top: 65px; left: 178px; } 
+#mesa-30 { top: 65px; left: 137px; }
+#mesa-31 { top: 96px; left: 92px; }
+#mesa-32 { top: 68px; left: 52px; }
+#mesa-33 { top: 117px; left: 131px; }
+#mesa-34 { top: 167px; left: 131px; }
+#mesa-35 { top: 217px; left: 131px; }
+#mesa-36 { top: 267px; left: 131px; }
 
 /* MESAZANINO */
 #mesa-41 { top: 881px; left: 172px; }
@@ -129,6 +133,11 @@ h2 {
 #mesa-47 { top: 673px; left: 296px; }
 #mesa-48 { top: 617px; left: 296px; }
 #mesa-49 { top: 561px; left: 296px; }
+#mesa-50 { top: 938px; left: 173px; }
+#mesa-51 { top: 938px; left: 222px; }
+#mesa-52 { top: 938px; left: 271px; }
+#mesa-53 { top: 923px; left: 314px; }
+
 
 /* 📌 FIM DO POSICIONAMENTO */
 
